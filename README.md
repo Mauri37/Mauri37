@@ -7,6 +7,9 @@ Venho apresentar aqui todo meus esforços como desenvolvedor Backend, Frontend e
 [![mauri37](https://github-readme-stats.vercel.app/api/top-langs/?username=mauri37&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
+<a href="https://www.facebook.com/Mauricio3232" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" ><a/>   
+<a href="https://www.linkedin.com/in/mauriciosilva3738/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ><a/>  
+<a href="https://www.facebook.com/Mauricio3232" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" ><a/>     
 <a href="https://www.facebook.com/Mauricio3232" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" ><a/>     
 </div>
 
