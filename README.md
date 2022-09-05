@@ -6,3 +6,4 @@ Venho apresentar aqui todo meus esforços como desenvolvedor Backend, Frontend e
 [![card](https://github-readme-stats.vercel.app/api?username=mauri37&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![mauri37](https://github-readme-stats.vercel.app/api/top-langs/?username=mauri37&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
