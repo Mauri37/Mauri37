@@ -6,6 +6,8 @@ Venho apresentar aqui todo meus esforços como desenvolvedor Backend, Frontend e
 [![card](https://github-readme-stats.vercel.app/api?username=mauri37&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![mauri37](https://github-readme-stats.vercel.app/api/top-langs/?username=mauri37&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<div>
 <a href="https://www.facebook.com/Mauricio3232" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" ><a/>     
+</div>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />    
